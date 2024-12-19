@@ -1,0 +1,4 @@
+git cherry-pick commit id
+git rebase
+git merge
+git reset
